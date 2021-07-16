@@ -1,13 +1,16 @@
 #include <iostream>
 #include <cstdlib>
+#include <ctime>
 using namespace std;
 int main(){
     cout<<" ********THE NUMBER GAME ********"<<endl;
 int player;
 int numg[4], arrb;
 int num[4];
-int arrb1 = rand()%10 +7;
-arrb = rand()%10+arrb1;
+//int arrb1 = rand()%10 +7;
+//arrb = rand()%10+arrb1;
+ srand(time(0));
+ arrb = rand()%10;
 for( int i = 0; i<= arrb; i++){
 
     a:num[0]= rand()%10;
