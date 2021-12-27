@@ -1,8 +1,2 @@
 ## Console Number Game
-# Header one 
-```C++
-int main(){
-    return a;
-}
-
-```
+[More info...](https://www.youtube.com/watch?v=o-YBDTqX_ZU)
