@@ -49,8 +49,8 @@ cout<< " numbers : "<<ncount<<"     positions : "<<pcount<<endl;
  if(pcount == 4){
     G = 0;}
 }
-cout<<" ******You won****** "<<endl;
-
+cout<<" ******You won, slayyyy****** "<<endl;
+cout<<"Changes"<<endl;
 system("pause");
 return main();
 }
